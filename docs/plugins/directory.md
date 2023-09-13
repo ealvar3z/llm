@@ -29,6 +29,7 @@ If an API model host provides an OpenAI-compatible API you can also [configure L
 {ref}`Embedding models <embeddings>` are models that can be used to generate and store embedding vectors for text.
 
 - **[llm-sentence-transformers](https://github.com/simonw/llm-sentence-transformers)** adds support for embeddings using the [sentence-transformers](https://www.sbert.net/) library, which provides access to [a wide range](https://www.sbert.net/docs/pretrained_models.html) of embedding models.
+- **[llm-clip](https://github.com/simonw/llm-clip)** provides the CLIP model for embedding images and text in the same vector space, enabling image search and image similarity.
 
 ## Extra commands
 
